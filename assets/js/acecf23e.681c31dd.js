@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunktiz_docusaurus_docs=globalThis.webpackChunktiz_docusaurus_docs||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/tiz-docusaurus-docs/blog","blogTitle":"Blog","authorsListPath":"/tiz-docusaurus-docs/blog/authors"}')}}]);

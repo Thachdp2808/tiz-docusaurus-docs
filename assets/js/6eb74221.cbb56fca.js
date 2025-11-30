@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunktiz_docusaurus_docs=globalThis.webpackChunktiz_docusaurus_docs||[]).push([[2720],{6915:s=>{s.exports=JSON.parse('{"metadata":{"permalink":"/tiz-docusaurus-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
